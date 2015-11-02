@@ -9,6 +9,7 @@
 1. Go get [MAMP](https://www.mamp.info/en/downloads/).
 2. Drag things into it's folder. Bam. You're mostly done.
 
+<<<<<<< Updated upstream
 ### - For Windows
 
 ???????
@@ -26,6 +27,8 @@ Type this in your CMD or Terminal
 ```bash
 npm install webpack -g
 ```
+=======
+
 ########################################
 HOW TO SETUP THE BACKEND DEV ENVIRONMENT
 ########################################
@@ -33,3 +36,4 @@ HOW TO SETUP THE BACKEND DEV ENVIRONMENT
 1. Download and install Vagrant 1.7
 2. Download and install VirtualBox (you may need to enable hardware virtualization if running on windows)
 3. 
+>>>>>>> Stashed changes
