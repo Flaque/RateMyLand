@@ -1,0 +1,13 @@
+{
+    "name": "bcarrion/backend",
+    "description": "Backend/RateMyLand",
+    "require": {
+        "laravel/lumen-installer": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Bradley Carrion",
+            "email": "bradley.carrion@gmail.com"
+        }
+    ]
+}
