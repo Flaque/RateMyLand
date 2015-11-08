@@ -26,10 +26,3 @@ Type this in your CMD or Terminal
 ```bash
 npm install webpack -g
 ```
-########################################
-HOW TO SETUP THE BACKEND DEV ENVIRONMENT
-########################################
-
-1. Download and install Vagrant 1.7
-2. Download and install VirtualBox (you may need to enable hardware virtualization if running on windows)
-3. 
