@@ -1,0 +1,1 @@
+function loadReviewTemplate(e){var o={};$.Mustache.load("./components/review/review.tmpl").done(function(){e.mustache("yo",o)})}$(document).ready(function(){console.log("Started the website bitches"),$("#reviewModal").on("show.bs.modal",function(e){loadReviewTemplate($(this))})});
