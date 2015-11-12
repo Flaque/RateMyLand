@@ -20,7 +20,11 @@ You may already have this. To test, open up Terminal or CMD and type in "npm".
 
 If not, you'll need to install if by following the [install here](https://nodejs.org/en/download/).
 
-2. Webpack
+2. Sass
+
+I'll add this later.
+
+3. Webpack
 Cool! Now that you have Node, installing everything else should be easy.
 Type this in your CMD or Terminal
 ```bash
